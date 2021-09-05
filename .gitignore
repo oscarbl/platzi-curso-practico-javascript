@@ -104,4 +104,4 @@ dist
 .tern-port
 
 #Añadir Vcode a .gitignore
-.code
+.Vscode
