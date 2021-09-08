@@ -103,5 +103,5 @@ dist
 # TernJS port file
 .tern-port
 
-#Añadir Vcode a .gitignore
-.Vscode
+#Configuracion de visual studio code
+.vscode
